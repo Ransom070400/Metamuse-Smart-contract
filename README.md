@@ -65,7 +65,7 @@ Make sure you have the following installed:
 ## Setup and Installation
  **Clone the Repository**:
    ```bash
-   git clone git@github.com:georgegoldman/metamuse.git
+   git clone https://github.com/Ransom070400/Metamuse-Smart-contract.git
    cd metamuse
 
 ### Installation
